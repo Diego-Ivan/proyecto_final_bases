@@ -1,4 +1,4 @@
-# Proyecto Final de Matemáticas Discretas
+# Proyecto Final de Matemáticas Discretas y Bases de Datos
 
 Este es un repositorio que contiene el proyecto final de bases de datos y de matemáticas discretas.
 Contiene tanto el frontend del proyecto como el backend.
